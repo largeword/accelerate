@@ -12,8 +12,8 @@ extra-deps:
 - bytestring-encoding-0.1.2.0
 - fclabels-2.0.5.1
 # - MIP-0.1.1.0
-- github: msakai/haskell-MIP
-  commit: 4295aa21a24a30926b55770c55ac00f749fb8a39
+- github: largeword/haskell-MIP
+  commit: a5297e9062e319291c26fad2c85ac715fc31574f
   subdirs:
   - MIP
 
